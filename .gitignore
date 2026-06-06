@@ -1,0 +1,12 @@
+# Ignore game assets and platform folders
+ÃÎÈý¹ú/
+ÃÎÆ½Ì¨/
+ÃÎÆ½Ì¨PlatformUpdate/
+
+# Ignore cache and logs
+__pycache__/
+*.obj
+*.log
+translation_log.txt
+modules_log.txt
+*.bak
